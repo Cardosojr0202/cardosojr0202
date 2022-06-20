@@ -1,6 +1,6 @@
 ### Olá! Eu sou Gabriel Cardoso👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje não trabalho com front-end
 - 🌱 Estudando: Javascript
 
 <div align="center">
@@ -22,4 +22,5 @@
   <a href="https://instagram.com/cardosojr_ff" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrieldominguesitap@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-cardoso-7300b517b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
